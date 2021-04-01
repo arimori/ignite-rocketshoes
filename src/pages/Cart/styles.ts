@@ -13,7 +13,7 @@ export const Container = styled.div`
     align-items: center;
 
     button {
-      background: #7159c1;
+      background: #FCA311;
       color: #fff;
       border: 0;
       border-radius: 4px;
@@ -23,7 +23,7 @@ export const Container = styled.div`
       transition: background 0.2s;
 
       &:hover {
-        background: ${darken(0.06, '#7159c1')};
+        background: ${darken(0.06, '#FCA311')};
       }
     }
   }
@@ -78,7 +78,7 @@ export const ProductTable = styled.table`
     padding: 6px;
 
     svg {
-      color: #7159c1;
+      color: #BE0F34;
       transition: color 0.2s;
     }
 

@@ -33,7 +33,7 @@ export const ProductList = styled.ul`
     }
 
     button {
-      background: #7159c1;
+      background: #FCA311;
       color: #fff;
       border: 0;
       border-radius: 4px;
@@ -45,7 +45,7 @@ export const ProductList = styled.ul`
       transition: background 0.2s;
 
       &:hover {
-        background: ${darken(0.06, '#7159c1')};
+        background: ${darken(0.06, '#FCA311')};
       }
 
       div {
