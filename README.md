@@ -17,10 +17,10 @@ Shoes e-commerce checkout application in order to practice React Context API.
 ### 📑 Ignite | Rocketshoes
 
 ---
-As part of a challenge from Ignite (*an acceleration program for devs, focused on preparing complete professionals for the market, training technical and behavioral skills in an intensive and practical way*) developed by [Rocketseat](https://rocketseat.com.br/), this project has been built in order to practice some concepts from **Context API** from **React** and create a real e-commerce checkout.
-Actually, it was nice dealing with JSON server in order to provide a fake API. Also I've worked with cart checkout, handling with the increase and decrease of products amount.
+As part of a challenge from Ignite (*an acceleration program for devs, focused on preparing complete professionals for the market, training technical and behavioral skills in an intensive and practical way*) developed by [Rocketseat](https://rocketseat.com.br/), this project has been built in order to get used to **Context API** from **React** and create a real e-commerce checkout.
+Actually, it was nice dealing with **JSON Server** in order to provide a fake API. Also I've worked with cart checkout, handling with the increase and decrease of products amount.
 
-The UI was built by Rocketseat Team and I'm had changed it a little bit, only to make it different and unique.
+The UI was built by Rocketseat Team and I'd changed it a little bit, only to make different and unique.
 
 ### :checkered_flag: Instructions
 ---
