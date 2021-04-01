@@ -1,7 +1,7 @@
 # ignite-rocketshoes
 Shoes e-commerce checkout application in order to practice React Context API.
 
-<img src="https://github.com/arimori/ignite-rocketshoes/main/assets/preview/rocketshoes_home.png" alt="RocketShoes"/>
+<img src="https://github.com/arimori/ignite-rocketshoes/blob/master/src/assets/preview/rocketshoes_home.png" alt="RocketShoes"/>
 
 <p style="text-align: center">
 <a href="https://www.linkedin.com/in/naoshi/">
